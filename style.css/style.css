@@ -240,3 +240,34 @@ input[type=submit] {
   border-radius: 10px;
 
 }
+/* footer part */
+
+footer{
+
+    text-align: center;
+    margin: 30px 159px 50px 141px;
+}
+.f-title{
+    font-weight:900px;
+    font-size: 70px;
+    color:#4E47FF; ;
+}
+footer ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+.f-items ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+footer li a{
+    text-decoration: none;
+}
+.f-description{
+    font-weight: 600px;
+   
+}
