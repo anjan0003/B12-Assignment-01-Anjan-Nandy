@@ -200,3 +200,43 @@ text-align: left;
 
 
 
+/* Let’s Get in Touch(form) styles */
+
+.touch{
+    padding: 50px 200px;
+    display: flex;
+    gap: 100px;
+    background-color: #f3f4f6;
+ }
+.touch-title{
+             font-size: 97px;
+             font-weight: bold;
+             margin-bottom: 80px;
+}
+.touch-column{
+    width: 50%;
+
+ }
+
+
+
+ #input-id input[type="text"], input[type="Email"],textarea {
+    height: 64px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 5px 20px;
+    margin-bottom: 24px;
+    border: 1px solid wheat;
+ }
+input[type=submit] {
+  width: 100%;
+  background-color: #4E47FF;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 20px;
+  border: none;
+  border-radius: 10px;
+
+}
