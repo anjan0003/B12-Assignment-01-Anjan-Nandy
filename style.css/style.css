@@ -90,3 +90,30 @@ nav ul li {
     font-size: 65px;
 }
 
+ /* action */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 116px 159px 116px 141px;
+    gap: 10px;
+}
+.action-content{
+    max-width: 580px;
+}
+
+.action-title{
+    font-weight:bold ;
+    font-size: 42px;
+}
+.action-sub-title{
+    font-weight:500 ;
+    font-size: 24px;
+}
+
+.action-picture{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+
+}
+
